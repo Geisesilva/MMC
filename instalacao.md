@@ -89,4 +89,6 @@ Santos, L. ([s.d.]). Partição primária vs partição lógica: Qual a diferen�
 
 windows-driver-content. ([s.d.]). Tipo. Microsoft.com. Recuperado 23 de novembro de 2023, de https://learn.microsoft.com/pt-br/windows-hardware/customize/desktop/unattend/microsoft-windows-setup-diskconfiguration-disk-createpartitions-createpartition-type
 
+windows-driver-content. ([s.d.]). Processo de instalação da instalação do Windows. Microsoft.com. Recuperado 23 de novembro de 2023, de https://learn.microsoft.com/pt-br/windows-hardware/manufacture/desktop/windows-setup-installation-process?view=windows-11
+
 ([S.d.]). Recuperado 23 de novembro de 2023, de http://ttps://diolinux.com.br/sistemas-operacionais/deep-lock-um-alternativa-ao-deepfreeze-linux.html#:~:text=Para%20quem%20não%20conhece%2C%20Deep,padrão%20estabelecido%20após%20uma%20reinicialização.
