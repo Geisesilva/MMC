@@ -3,7 +3,43 @@
 ### **Estudante:** Geise Silva
 ----------------
 # instalação de sistema operacinal
-## A instalação de um sistema operacional é feita atraves de um pen-drive bootavel, primero reiniciamos o sistema e clicamos na tecla F12 assim que o sistema houver reiniciado em outra tela selecione o pendrive e comece a configuração para instalar o sistema operacional. quando a instalação houver terminado configure o sistema final.
+
+A instalação de um sistema operacional é feita atraves de um pen-drive bootavel, primero reiniciamos o sistema e clicamos na tecla F12 assim que o sistema houver reiniciado em outra tela selecione o pendrive e comece a configuração para instalar o sistema operacional. quando a instalação houver terminado configure o sistema final.
+
+O programa de Instalação do Windows inicia e reinicia o computador, coleta informações, copia arquivos e cria ou ajusta as configurações.
+
+Fase de instalação do WindowsAções de instalação
+
+Baixo nível (para instalações e atualizações personalizadas)
+
+- ou -
+
+Windows PE (para inicializar o DVD do Windows ou inicializar uma imagem personalizada do Windows PE)
+
+• Especifique as configurações de Instalação do Windows usando as caixas de diálogo Configuração do Windows (interativas) ou um arquivo de resposta (autônomo) ou uma combinação dos dois. As configurações de Instalação do Windows incluem a adição de uma chave do produto (Product Key) e a configuração de um disco.
+
+• Aplique as configurações de arquivo de resposta na passagem de configuração do windowsPE para configurar o comportamento de instalação e a experiência do usuário.
+
+• Configure o disco.
+
+• Copie a imagem do Windows para o disco.
+
+• Preparar informações de inicialização.
+
+• Processar configurações de arquivo de resposta no passe de configuração offlineServicing . As configurações são aplicadas à imagem do Windows antes da inicialização da imagem do Windows. Quando o computador é inicializado pela primeira vez, todos os componentes, drivers, atualizações ou pacotes de idiomas opcionais são processados.
+
+Configuração online
+
+Crie configurações específicas, tornando a instalação do Windows exclusiva.
+
+Boas-vindas do Windows
+
+• Aplique as configurações de arquivo de resposta na passagem de configuração oobeSystem .
+
+• Aplique as configurações de arquivo de conteúdo do arquivo Oobe.xml.
+
+• Inicie o Windows Welcome.
+
 ----------------
 
 ## Partições Lógica
