@@ -25,7 +25,8 @@ Partições estendidas serão úteis se você pretende criar mais de quatro volu
 ## Partição Swap
 Este tipo de partição é usado para oferecer o suporte a memória virtual ao GNU/Linux em adição a memória RAM instalada no sistema. Este tipo de partição é identificado pelo tipo 82 nos programas de particionamento de disco para Linux. Para detalhes de como criar uma partição Linux Swap veja “Criando sistema de arquivos Swap em uma partição”.
 
-### Somente os dados na memória RAM são processados pelo processador, por ser mais rápida. Desta forma quando você está executando um programa e a memória RAM começa a encher, o GNU/Linux move automaticamente os dados que não estão sendo usados para a partição Swap e libera a memória RAM para a continuar carregando os dados necessários pelo. Quando os dados movidos para a partição Swap são solicitados, o GNU/Linux move os dados da partição Swap para a Memória. Por este motivo a partição Swap também é chamada de Troca ou memória virtual. A partição Swap é otimizada para permitir alta velocidade para mover dados da memória RAM para ela e vice versa. Note também que é possível criar o sistema de arquivos Swap em um arquivo ao invés de partição
+Somente os dados na memória RAM são processados pelo processador, por ser mais rápida. Desta forma quando você está executando um programa e a memória RAM começa a encher, o GNU/Linux move automaticamente os dados que não estão sendo usados para a partição Swap e libera a memória RAM para a continuar carregando os dados necessários pelo. Quando os dados movidos para a partição Swap são solicitados, o GNU/Linux move os dados da partição Swap para a Memória. Por este motivo a partição Swap também é chamada de Troca ou memória virtual. A partição Swap é otimizada para permitir alta velocidade para mover dados da memória RAM para ela e vice versa. Note também que é possível criar o sistema de arquivos Swap em um arquivo ao invés de partição
+
 ---------------
 
 # Freeze S.O
