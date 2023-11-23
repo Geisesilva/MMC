@@ -1,9 +1,9 @@
 # Relatórios Manutenção e Montagem de computadores
 ## aula 6 26/10/2023
 ### **Estudante:** Geise Silva
-
+----------------
 # instalação de sistema operacinal
-a instalação de um sistema operacional é feita atraves de um pen-drive bootavel, primero reiniciamos o sistema e clicamos na tecla f12 assim que o sistema ouver reiniciado em outra tela selecione o pendrive e comece a configuração para instalar o sistema operacional. quando a instalação ouver terminado configure o sistema final.
+## A instalação de um sistema operacional é feita atraves de um pen-drive bootavel, primero reiniciamos o sistema e clicamos na tecla F12 assim que o sistema houver reiniciado em outra tela selecione o pendrive e comece a configuração para instalar o sistema operacional. quando a instalação houver terminado configure o sistema final.
 ----------------
 ## Partições Lógica
 Uma partição lógica é um volume criado dentro de uma partição estendida em um disco básico baseado em MBR (registro de inicialização de master).
