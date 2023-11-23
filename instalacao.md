@@ -5,11 +5,12 @@
 # instalação de sistema operacinal
 ## A instalação de um sistema operacional é feita atraves de um pen-drive bootavel, primero reiniciamos o sistema e clicamos na tecla F12 assim que o sistema houver reiniciado em outra tela selecione o pendrive e comece a configuração para instalar o sistema operacional. quando a instalação houver terminado configure o sistema final.
 ----------------
+
 ## Partições Lógica
 Uma partição lógica é um volume criado dentro de uma partição estendida em um disco básico baseado em MBR (registro de inicialização de master).
 
 Partições lógicas são semelhantes a partições primárias. No entanto, embora apenas quatro partições primárias possam existir em um único disco, o número de partições lógicas que podem existir em um disco é ilimitado. Uma partição lógica pode ser formatada e atribuída uma letra de unidade. Uma partição lógica deve ser criada dentro de uma partição estendida. Se uma partição estendida ainda não existir no disco ou o tamanho especificado da unidade lógica exceder a partição estendida, nenhuma partição será criada.
-------------------
+
 ## Partição Prímaria
 Você pode dividir um disco rígido em duas partições: Partição primária e partição estendida. Uma unidade de disco pode ter no máximo quatro partições primárias e cada uma pode ter seu sistema operacional. Dito isso, apenas uma partição primária pode estar ativa e as outras ficarão ocultas. Uma partição primária possui um tipo de código que indica o sistema de arquivos que contém ou se possui ou não um uso específico.
 
@@ -20,7 +21,7 @@ Uma partição estendida só pode ser criada em discos baseados em registro de i
 Somente uma partição estendida pode existir em um único disco. Se uma partição estendida já existir no disco, uma segunda partição estendida não será criada. Se o valor da configuração WillShowUI estiver definido como Nunca, um erro será registrado e a instalação será encerrada.
 
 Partições estendidas serão úteis se você pretende criar mais de quatro volumes em um disco MBR básico. Ao contrário das partições primárias, você não formata uma partição estendida com um sistema de arquivos. Em vez disso, você cria uma ou mais unidades lógicas dentro da partição estendida.
--------------------
+
 ## Partição Swap
 Este tipo de partição é usado para oferecer o suporte a memória virtual ao GNU/Linux em adição a memória RAM instalada no sistema. Este tipo de partição é identificado pelo tipo 82 nos programas de particionamento de disco para Linux. Para detalhes de como criar uma partição Linux Swap veja “Criando sistema de arquivos Swap em uma partição”.
 
